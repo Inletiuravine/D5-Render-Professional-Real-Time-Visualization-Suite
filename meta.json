@@ -1,0 +1,23 @@
+{
+  "repo": "d5-render-professional-real-time-visualization-suite",
+  "product": "D5 Render Professional Real Time Visualization Suite",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "d5-render-real-time-visualization",
+    "d5-render",
+    "d5-render-visualization",
+    "3d-rendering",
+    "how-to-install-d5-render",
+    "how-to-setup-d5-render",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "D5 Render Professional Real Time Visualization Suite"
+}
